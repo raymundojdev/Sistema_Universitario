@@ -2,7 +2,6 @@
 
 <img src="Vistas/img/ulogin.png">
 
-
 <img src="Vistas/img/uni1.png">
 
 <img src="Vistas/img/uni2.png">
@@ -21,4 +20,4 @@
 
 <img src="Vistas/img/uni10.png">
 
-<img src="Vistas/img/uni11.png">
+
