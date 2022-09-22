@@ -1,5 +1,12 @@
 # Sistema_Universitario
 
+```
+TECNOLOGIAS UTILIZADAS:
+
+* PHP * JAVASCRIPT * AJAX *HTML *CSS 
+*AJAX *MYSQL *MVC
+```
+
 <img src="Vistas/img/ulogin.png">
 
 <img src="Vistas/img/uni1.png">
