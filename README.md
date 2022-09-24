@@ -4,7 +4,7 @@
 TECNOLOGIAS UTILIZADAS:
 
 * PHP * JAVASCRIPT * AJAX *HTML *CSS 
-*AJAX *MYSQL *MVC
+*AJAX *MYSQL  *MVC
 ```
 
 <img src="Vistas/img/ulogin.png">
